@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+
+/* .App-header {
+  
+  
+  
+  
+} */
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.calling-screen{
+  height:500px;
+  width:500px;
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.button1{
+  height:70px;
+  width:70px;
+  background-color: aqua;
+}
